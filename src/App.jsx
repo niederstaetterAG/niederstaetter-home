@@ -10,7 +10,10 @@ function App() {
         <a href="https://form.niederstaetter.io" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
-        <a href="https://react.dev" target="_blank">
+        <a
+          href="https://forms.office.com/Pages/ResponsePage.aspx?id=eUewWliprEG_MgEwZjoj6WwRTTCaG5NFsTolwBpU82JUQlZMVldRRElJMjgxSVNGUFJDWFhIS0tPRS4u"
+          target="_blank"
+        >
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
